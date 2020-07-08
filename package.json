@@ -1,0 +1,23 @@
+{
+  "name": "movie-trailer",
+  "version": "1.0.0",
+  "description": "电影预告片网站",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/v-killer/movie-trailer.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/v-killer/movie-trailer/issues"
+  },
+  "homepage": "https://github.com/v-killer/movie-trailer#readme",
+  "dependencies": {
+    "koa": "^2.13.0"
+  }
+}
